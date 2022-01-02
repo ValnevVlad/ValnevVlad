@@ -3,6 +3,7 @@
 [<img align="left" alt="@valnevvlad | Vk.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
 [<img align="left" alt="@ValnevVlad | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="@valnevvlad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vladvvspb@gmail.com | Gmail" width="22px" src="hhttps://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -26,3 +27,4 @@
 [vk]: https://vk.com/valnevvlad
 [telegram]: https://t.me/ValnevVlad
 [instagram]: https://www.instagram.com/valnevvlad/
+[gmail]: <vladvvspb@gmail.com>
